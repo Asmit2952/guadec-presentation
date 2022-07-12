@@ -1,39 +1,36 @@
-% Faces of GNOME
+% Faces Of GNOME
 % Asmit Malakannawar (`asmitbm2952002@gmail.com`)
 % July 22, 2022
 
-# Title Slide
+## **Faces Of GNOME**
 
-Any text under a header 1 won't be shown. This is a title slide without
-content!
+**Mentors**: Claudio Wunder(`@ovflowd`), Caroline Henriksen(`@chenriksen`)
 
----
+**Objective**: Continuing the Development of the Platform
 
-![Evaluation of a Code Clone Detection](graph.png)
+**Repository Link**: gitlab.gnome.org/Teams/Engagement/websites/faces-of-gnome
 
----
+**Blog**: medium.com/@asmit2952
 
-<!-- Leave the alternative text empty and add a backslash *plus a trailing space
-or an extra newline* to get no image caption at all -->
-![](graph.png){width=80%}\
+## About Me
 
+- I'm Asmit Malakannawar
+- I'm from Pune, India
+- A sophomore pursuing B.Tech in CSBS
+- I'm an Open Source enthusiast and love interacting with various communities
 
-## Content Slide
+## About Project
 
-Do math simply!
+Faces of GNOME initiative is a Foundation-led effort to advocate contributors and recognise their ongoing and previous contributions to the GNOME project.
 
-$$\sqrt{5} \neq 1$$
+**GNOME** has all kinds of people:
 
-`Use` standard *markdown* **easily**.
-
-### With Lower Level Headers
-
-```python
-def some_code(is_easy_to):
-    integrate()
-
-# With syntax highlighting, of course!
-```
+- Designers
+- Developers
+- Translators
+- Moderators
+- Speakers
+- Interns
 
 ## Incrementally Showing Lists
 
