@@ -18,6 +18,7 @@
 - I'm from Pune, India
 - A sophomore pursuing B.Tech in CSBS
 - I'm an Open Source enthusiast and love interacting with various communities
+- Connect with me on Twitter: @Asmit_2952
 
 ## About Project
 
@@ -32,16 +33,24 @@ Faces of GNOME initiative is a Foundation-led effort to advocate contributors an
 - Speakers
 - Interns
 
-## Incrementally Showing Lists
+## Current Progress
 
-<!-- Use > to make lists show incrementally. Oh you noticed?
-     This is a comment! -->
-> - Is
-> - Dead
-> - Easy!
+- Changed styles
+- Updated packages
+- Fixed accesibilty errors
 
-# Compiling
+![](./form.png){ width=400px }
 
-## Compiling
+## 
 
-Simply use `make pandoc` in this directory!
+![](./result.png)
+
+## Future scope
+
+- Populate FAQs page with actual content
+- Creating Wiki/Documentation pages 
+- Replacing existing jQuery with Vanilla JavaScript
+- UI/UX improvements
+- Experimenting with other Static Site Generators
+
+# Thank you <3
