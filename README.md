@@ -1,6 +1,6 @@
-# GUADEC 2021 Presentation Templates
+# GUADEC 2022 Presentation Templates
 
-This repository contains templates usable for presentations for GUADEC 2021.
+This repository contains templates usable for presentations for GUADEC 2022.
 
 The following commands will get you the template:
 
