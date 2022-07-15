@@ -14,7 +14,7 @@
 
 ## About Me
 
-- I'm Asmit Malakannawar
+- **Hello!** I'm Asmit Malakannawar
 - I'm from Pune, India
 - A sophomore pursuing B.Tech in CSBS
 - I'm an Open Source enthusiast and love interacting with various communities
